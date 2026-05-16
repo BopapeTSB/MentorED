@@ -233,4 +233,13 @@ def run_web():
 
 threading.Thread(target=run_web).start()
     
-app.run_polling(drop_pending_updates=True)
+if __name__ == "__main__":
+    import asyncio
+
+    try:
+        import nest_asyncio
+        nest_asyncio.apply()
+    except:
+        pass
+
+    app.run_polling(drop_pending_updates=True)
