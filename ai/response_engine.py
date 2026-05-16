@@ -143,7 +143,7 @@ def process_message(user_message, profile, history):
 
     response = generate_response(prompt)
 
-    return responselan(
+    return response(
             topic=user_message,
             profile=profile,
             curriculum_context=curriculum_context,
