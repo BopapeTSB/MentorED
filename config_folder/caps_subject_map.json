@@ -1,0 +1,260 @@
+{
+  "Natural Sciences": {
+    "Grade 8": {
+      "Term 1": [
+        {
+          "topic": "Photosynthesis and Respiration",
+          "metadata": {
+            "subtopics": ["Requirements for photosynthesis", "Role of chlorophyll", "Respiration in organisms", "Energy transfer in living systems"],
+            "learning_outcomes": ["Explain the process of photosynthesis", "Describe respiration in living organisms"],
+            "assessment_standards": ["Describe energy transformation in plants", "Interpret photosynthesis diagrams"],
+            "concepts": ["Glucose", "Oxygen", "Carbon dioxide", "Chlorophyll", "Energy"],
+            "skills": ["Label diagrams", "Interpret scientific processes"],
+            "prerequisites": ["Basic plant structure"],
+            "next_topics": ["Ecosystems"]
+          }
+        }
+      ],
+      "Term 2": [
+        {
+          "topic": "Matter and Materials",
+          "metadata": {
+            "subtopics": ["Atoms", "Elements", "Compounds", "Mixtures", "Periodic table"],
+            "learning_outcomes": ["Describe the structure of matter", "Differentiate between compounds and mixtures"],
+            "assessment_standards": ["Classify materials according to properties"],
+            "concepts": ["Atoms", "Molecules", "Elements", "Compounds"],
+            "skills": ["Classify substances", "Interpret particle models"],
+            "prerequisites": ["Properties of materials"],
+            "next_topics": ["Chemical reactions"]
+          }
+        }
+      ],
+      "Term 3": [
+        {
+          "topic": "Energy and Change",
+          "metadata": {
+            "subtopics": ["Potential energy", "Kinetic energy", "Heat transfer", "Energy transformation"],
+            "learning_outcomes": ["Differentiate between forms of energy", "Explain energy transfer"],
+            "assessment_standards": ["Identify energy transformations in systems"],
+            "concepts": ["Kinetic energy", "Potential energy", "Heat", "Energy transfer"],
+            "skills": ["Interpret energy diagrams", "Describe transformations"],
+            "prerequisites": ["Basic understanding of force"],
+            "next_topics": ["Electricity"]
+          }
+        }
+      ],
+      "Term 4": [
+        {
+          "topic": "Earth and Beyond",
+          "metadata": {
+            "subtopics": ["Solar system", "Planets", "Stars", "Gravity"],
+            "learning_outcomes": ["Describe the solar system", "Explain gravitational force"],
+            "assessment_standards": ["Compare planets in the solar system"],
+            "concepts": ["Gravity", "Orbit", "Planets", "Stars"],
+            "skills": ["Interpret models", "Compare celestial bodies"],
+            "prerequisites": ["Earth structure"],
+            "next_topics": ["Space exploration"]
+          }
+        }
+      ]
+    },
+
+    "Grade 9": {
+      "Term 1": [
+        {
+          "topic": "Cells as the Basic Units of Life",
+          "metadata": {
+            "subtopics": ["Plant cells", "Animal cells", "Cell organelles", "Tissues"],
+            "learning_outcomes": ["Describe cell structures", "Explain organelle functions"],
+            "assessment_standards": ["Label plant and animal cells"],
+            "concepts": ["Nucleus", "Membrane", "Cytoplasm", "Mitochondria"],
+            "skills": ["Draw and label cells", "Compare cell types"],
+            "prerequisites": ["Microscopic organisms"],
+            "next_topics": ["Human body systems"]
+          }
+        }
+      ],
+      "Term 2": [
+        {
+          "topic": "Chemical Reactions",
+          "metadata": {
+            "subtopics": ["Physical changes", "Chemical changes", "Reaction indicators", "Balancing equations"],
+            "learning_outcomes": ["Differentiate physical and chemical changes", "Describe chemical reactions"],
+            "assessment_standards": ["Identify evidence of chemical reactions"],
+            "concepts": ["Reactants", "Products", "Chemical change"],
+            "skills": ["Observe reactions", "Interpret equations"],
+            "prerequisites": ["Atoms and compounds"],
+            "next_topics": ["Acids and bases"]
+          }
+        }
+      ],
+      "Term 3": [
+        {
+          "topic": "Electricity",
+          "metadata": {
+            "subtopics": ["Series circuits", "Parallel circuits", "Current", "Voltage", "Resistance"],
+            "learning_outcomes": ["Construct electrical circuits", "Explain current flow"],
+            "assessment_standards": ["Interpret circuit diagrams"],
+            "concepts": ["Current", "Voltage", "Resistance"],
+            "skills": ["Draw circuits", "Use scientific symbols"],
+            "prerequisites": ["Energy transfer"],
+            "next_topics": ["Electromagnetism"]
+          }
+        }
+      ],
+      "Term 4": [
+        {
+          "topic": "Human Body Systems",
+          "metadata": {
+            "subtopics": ["Digestive system", "Respiratory system", "Circulatory system", "Excretory system"],
+            "learning_outcomes": ["Describe body systems", "Explain interactions between systems"],
+            "assessment_standards": ["Interpret diagrams of body systems"],
+            "concepts": ["Organs", "Systems", "Respiration", "Digestion"],
+            "skills": ["Label diagrams", "Compare systems"],
+            "prerequisites": ["Cells and tissues"],
+            "next_topics": ["Disease and health"]
+          }
+        }
+      ]
+    }
+  },
+
+  "Information Technology": {
+    "Grade 10": {
+      "Term 1": [
+        {
+          "topic": "Computer Systems",
+          "metadata": {
+            "subtopics": ["Hardware", "Input devices", "Output devices", "Storage"],
+            "learning_outcomes": ["Identify computer hardware", "Explain hardware functions"],
+            "assessment_standards": ["Classify computer components"],
+            "concepts": ["CPU", "RAM", "Motherboard"],
+            "skills": ["Identify hardware", "Explain system functions"],
+            "prerequisites": ["Basic computer literacy"],
+            "next_topics": ["Software systems"]
+          }
+        }
+      ],
+      "Term 2": [
+        {
+          "topic": "Software and Operating Systems",
+          "metadata": {
+            "subtopics": ["System software", "Application software", "Operating systems", "Utilities"],
+            "learning_outcomes": ["Differentiate software types"],
+            "assessment_standards": ["Explain operating system functions"],
+            "concepts": ["OS", "Applications", "Utilities"],
+            "skills": ["Classify software"],
+            "prerequisites": ["Computer hardware"],
+            "next_topics": ["Programming"]
+          }
+        }
+      ],
+      "Term 3": [
+        {
+          "topic": "Introduction to Programming",
+          "metadata": {
+            "subtopics": ["Variables", "Data types", "Input and output", "Algorithms"],
+            "learning_outcomes": ["Write simple programs"],
+            "assessment_standards": ["Develop basic algorithms"],
+            "concepts": ["Variables", "Algorithms", "Data types"],
+            "skills": ["Write code", "Trace algorithms"],
+            "prerequisites": ["Basic computer skills"],
+            "next_topics": ["Control structures"]
+          }
+        }
+      ],
+      "Term 4": [
+        {
+          "topic": "Control Structures",
+          "metadata": {
+            "subtopics": ["Selection", "Iteration", "Loops", "Conditional statements"],
+            "learning_outcomes": ["Use control structures in programs"],
+            "assessment_standards": ["Develop programs using loops"],
+            "concepts": ["If statements", "Loops", "Conditions"],
+            "skills": ["Develop logic", "Debug code"],
+            "prerequisites": ["Programming basics"],
+            "next_topics": ["Object-oriented programming"]
+          }
+        }
+      ]
+    },
+
+    "Grade 11": {
+      "Term 1": [
+        {
+          "topic": "Advanced Programming Concepts",
+          "metadata": {
+            "subtopics": ["Functions", "Procedures", "Parameters", "Modular programming"],
+            "learning_outcomes": ["Develop modular programs"],
+            "assessment_standards": ["Create reusable code structures"],
+            "concepts": ["Functions", "Parameters", "Modules"],
+            "skills": ["Write modular code", "Debug functions"],
+            "prerequisites": ["Control structures"],
+            "next_topics": ["Arrays"]
+          }
+        }
+      ]
+    }
+  },
+
+  "CAT": {
+    "Grade 10": {
+      "Term 1": [
+        {
+          "topic": "Computer Fundamentals and ICT Systems",
+          "metadata": {
+            "subtopics": ["Computer hardware", "Software types", "Data and information", "ICT systems in society"],
+            "learning_outcomes": ["Identify ICT components", "Explain ICT in daily life"],
+            "assessment_standards": ["Classify hardware and software"],
+            "concepts": ["Hardware", "Software", "Data", "Information"],
+            "skills": ["Identify devices", "Explain ICT usage"],
+            "prerequisites": ["Basic computer literacy"],
+            "next_topics": ["Word processing"]
+          }
+        }
+      ],
+      "Term 2": [
+        {
+          "topic": "Word Processing Fundamentals",
+          "metadata": {
+            "subtopics": ["Formatting text", "Paragraph formatting", "Page layout", "Tables"],
+            "learning_outcomes": ["Create structured documents", "Apply formatting tools"],
+            "assessment_standards": ["Produce well-formatted documents"],
+            "concepts": ["Formatting", "Styles", "Layout"],
+            "skills": ["Format documents", "Insert tables"],
+            "prerequisites": ["Basic typing skills"],
+            "next_topics": ["Spreadsheets"]
+          }
+        }
+      ],
+      "Term 3": [
+        {
+          "topic": "Spreadsheets Introduction",
+          "metadata": {
+            "subtopics": ["Basic formulas", "Cell referencing", "Charts", "Data entry"],
+            "learning_outcomes": ["Use spreadsheets for basic calculations"],
+            "assessment_standards": ["Apply formulas correctly"],
+            "concepts": ["Cells", "Formulas", "Functions"],
+            "skills": ["Use formulas", "Create charts"],
+            "prerequisites": ["Word processing skills"],
+            "next_topics": ["Advanced spreadsheets"]
+          }
+        }
+      ],
+      "Term 4": [
+        {
+          "topic": "Internet and Digital Communication",
+          "metadata": {
+            "subtopics": ["Internet basics", "Email communication", "Online safety", "Search engines"],
+            "learning_outcomes": ["Use internet tools effectively", "Practice safe online behavior"],
+            "assessment_standards": ["Demonstrate safe ICT usage"],
+            "concepts": ["Internet", "Email", "Browser", "Cyber safety"],
+            "skills": ["Use email", "Search information online"],
+            "prerequisites": ["Basic ICT knowledge"],
+            "next_topics": ["Databases introduction"]
+          }
+        }
+      ]
+    }
+  }
+}
