@@ -1,4 +1,6 @@
 from telegram import Update
+from flask import Flask
+import threading
 from telegram.ext import (
     ApplicationBuilder,
     MessageHandler,
@@ -220,4 +222,15 @@ app.add_handler(
 
 print("Bot running...")
 
+web_app = Flask(__name__)
+
+@web_app.route("/")
+def home():
+    return "mentorED is running"
+def run_web():
+    web_app.run(host="0.0.0.0", port=10000)
+
+
+threading.Thread(target=run_web).start()
+    
 app.run_polling(drop_pending_updates=True)
