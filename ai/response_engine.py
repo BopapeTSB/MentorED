@@ -2,7 +2,7 @@ from ai.router import detect_intent
 from ai.prompt_builder import build_prompt
 from ai.llm import generate_response
 
-from rag.retriever import retrieve_documents
+#from rag.retriever import retrieve_documents
 from generators.lesson_plan_generator import generate_lesson_plan
 from generators.assessment_generator import generate_assessment
 from generators.objectives_generator import generate_objectives
@@ -30,10 +30,11 @@ def process_message(user_message, profile, history):
     # RAG Retrieval
     # -------------------------
 
-    retrieved_docs = retrieve_documents(
+    '''retrieved_docs = retrieve_documents(
         user_message
-    )
-
+    )'''
+    
+    retrieved_docs = []
     # -------------------------
     # Curriculum Context
     # -------------------------
